@@ -1,0 +1,20 @@
+---
+title: "Day 7 Notes"
+author: "Andre Dextre"
+date: "2022-08-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
+library(palmerpenguins)
+library(lubridate)
+library(kableExtra)
+```
+
+```{r}
+
+```
+
